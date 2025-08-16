@@ -25,38 +25,38 @@
             "id": "36a125f92aadc2a3",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "fbb09723c9b5a17a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "쉽다/백준, 2720번 (세탁소 사장 동혁).md",
+                "file": "쉽다/백준,  2581번 소수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "백준, 2720번 (세탁소 사장 동혁)"
+              "title": "백준,  2581번 소수"
             }
           },
           {
-            "id": "df214e866fc65e0d",
+            "id": "159893d4f27be0a5",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
+              "type": "markdown",
               "state": {
-                "path": "https://www.make.md/static/latest.md"
+                "file": "백준, 11653번 소인수분해.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
-            "id": "d3f951b9a587c712",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "/"
-              },
-              "icon": "lucide-file",
-              "title": "오영웅의 뇌"
+              "title": "백준, 11653번 소인수분해"
             }
           }
         ],
@@ -112,19 +112,8 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
-          },
-          {
-            "id": "9d9930e663c73e4c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,17 +234,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9d9930e663c73e4c",
+  "active": "159893d4f27be0a5",
   "lastOpenFiles": [
-    "Tags/Tags.md",
+    "쉽다/백준,  2581번 소수.md",
+    "백준, 11653번 소인수분해.md",
     "어렵다/어렵다.md",
-    "쉽다/무제.md",
     "쉽다/쉽다.md",
+    "Vault.md",
+    "쉽다/백준, 2720번 (세탁소 사장 동혁).md",
+    "Tags/#시뮬레이션/#시뮬레이션.md",
+    "Tags/#시뮬레이션",
+    "Tags/Tags.md",
     "오영웅의 뇌 2.md",
     "오영웅의 뇌 1.md",
     "오영웅의 뇌.md",
     "쉽다/백준, 2745번 (진법 변환).md",
-    "쉽다/백준, 2720번 (세탁소 사장 동혁).md",
     "쉽다/백준, 2501번 약수 구하기.md",
     "쉽다/백준,  2903번 (중앙 이동 알고리즘).md",
     "쉽다/백준, 11005번 (진법 변환 2).md",
@@ -274,16 +267,11 @@
     "쉽다",
     "01_Projects/프로그래밍/파이썬/Python.md",
     "01_Projects/프로그래밍/파이썬/파이썬 학습 폴더/변수.md",
-    "템플릿/Research.md.md",
-    "템플릿/Daily Note.md.md",
     "01_Projects/프로그래밍/파이썬/파이썬 학습 폴더",
-    "템플릿/Moc.md.md",
-    "03_Notes/새로운 개념을 배우는게 어려운 이유.md",
     "01_Projects/프로그래밍/파이썬",
     "01_Projects/프로그래밍",
     "템플릿",
     "일간",
-    "03_Notes",
-    "02_Research"
+    "03_Notes"
   ]
 }
