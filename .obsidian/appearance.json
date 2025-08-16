@@ -1,3 +1,5 @@
 {
-  "theme": "system"
+  "theme": "moonstone",
+  "cssTheme": "Typomagical",
+  "accentColor": ""
 }

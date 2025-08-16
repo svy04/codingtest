@@ -25,46 +25,14 @@
             "id": "36a125f92aadc2a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "쉽다/백준, 2501번 약수 구하기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "백준, 2501번 약수 구하기"
-            }
-          },
-          {
-            "id": "acd74527cd04e38d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "쉽다/백준, 9506번 약수들의 합.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "백준, 9506번 약수들의 합"
-            }
-          },
-          {
-            "id": "6e20dc6446913612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "어렵다/백준, 1978번 소수 찾기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "백준, 1978번 소수 찾기"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,8 +85,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,23 +206,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6e20dc6446913612",
+  "active": "36a125f92aadc2a3",
   "lastOpenFiles": [
-    "쉽다/백준, 9506번 약수들의 합.md",
-    "쉽다/백준, 2501번 약수 구하기.md",
-    "어렵다/백준, 1978번 소수 찾기.md",
-    "쉽다/백준,  2903번 (중앙 이동 알고리즘).md",
-    "쉽다/백준, 2501번 배수와 약수.md",
-    "어렵다/백준, 10798번 (세로 읽기).md",
-    "어렵다/백준, 1193번 분수찾기.md",
-    "어렵다/백준, 2563번 (색종이 문제).md",
-    "쉽다/백준, 11005번 (진법 변환 2).md",
-    "쉽다/백준, 2720번 (세탁소 사장 동혁).md",
-    "쉽다/백준, 2738번 (행렬 덧셈).md",
     "쉽다/백준, 2745번 (진법 변환).md",
+    "쉽다/백준, 2738번 (행렬 덧셈).md",
+    "쉽다/백준, 2720번 (세탁소 사장 동혁).md",
+    "쉽다/백준, 2501번 약수 구하기.md",
+    "쉽다/백준,  2903번 (중앙 이동 알고리즘).md",
+    "쉽다/백준, 9506번 약수들의 합.md",
+    "무제.canvas",
+    "어렵다/백준, 1978번 소수 찾기.md",
+    "어렵다/백준, 2563번 (색종이 문제).md",
+    "어렵다/백준, 1193번 분수찾기.md",
+    "어렵다/백준, 10798번 (세로 읽기).md",
+    "어렵다",
+    "쉽다/백준, 11005번 (진법 변환 2).md",
+    "무제 1.canvas",
+    "쉽다/백준, 2501번 배수와 약수.md",
     "2025-08-04.md",
     "쉽다",
-    "어렵다",
     "01_Projects/프로그래밍/파이썬/Python.md",
     "01_Projects/프로그래밍/파이썬/파이썬 학습 폴더/변수.md",
     "템플릿/Research.md.md",
