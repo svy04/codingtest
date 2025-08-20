@@ -82,9 +82,79 @@
               "icon": "lucide-file",
               "title": "백준, 3009번 네 번재 점"
             }
+          },
+          {
+            "id": "fa4ef103495c0b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "세팅/개념 채우기/개념 학습.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "개념 학습"
+            }
+          },
+          {
+            "id": "cf52f9ebe7930e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "세팅/개념 채우기/개념 학습.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "개념 학습"
+            }
+          },
+          {
+            "id": "02881aa1fe962e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "세팅/문제 해결 과정.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "문제 해결 과정"
+            }
+          },
+          {
+            "id": "c777f12e0e64659a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "세팅/문제 해결 과정.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "문제 해결 과정"
+            }
+          },
+          {
+            "id": "d283ac44dc73e526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백준, 10101번 삼각형 외우기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "백준, 10101번 삼각형 외우기"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -258,16 +328,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a1cbfcb5d0290988",
+  "active": "d283ac44dc73e526",
   "lastOpenFiles": [
-    "쉽다/백준, 1085번 직사각형에서 탈출.md",
+    "쉽다/백준,  2903번 (중앙 이동 알고리즘).md",
+    "백준, 10101번 삼각형 외우기.md",
+    "세팅/개념 채우기/문제 풀이 핵심 학습.md",
+    "세팅/문제 해결 과정.md",
+    "쉽다/백준, 2720번 (세탁소 사장 동혁).md",
+    "세팅/슬럼프와 번아웃 극복하기.md",
+    "세팅/개념 채우기",
+    "세팅/개념 채우기/개념 학습.md",
+    "세팅/오답노트.md",
     "쉽다/백준, 3009번 네 번재 점.md",
+    "세팅",
+    "쉽다/백준, 1085번 직사각형에서 탈출.md",
     "쉽다/백준, 11653번 소인수분해.md",
     "쉽다/백준,  2581번 소수.md",
     "어렵다/어렵다.md",
     "쉽다/쉽다.md",
     "Vault.md",
-    "쉽다/백준, 2720번 (세탁소 사장 동혁).md",
     "Tags/#시뮬레이션/#시뮬레이션.md",
     "Tags/#시뮬레이션",
     "Tags/Tags.md",
@@ -276,27 +355,18 @@
     "오영웅의 뇌.md",
     "쉽다/백준, 2745번 (진법 변환).md",
     "쉽다/백준, 2501번 약수 구하기.md",
-    "쉽다/백준,  2903번 (중앙 이동 알고리즘).md",
     "쉽다/백준, 11005번 (진법 변환 2).md",
     "쉽다/백준, 2501번 배수와 약수.md",
     "쉽다/백준, 2738번 (행렬 덧셈).md",
     "Tags",
     "쉽다/백준, 9506번 약수들의 합.md",
     "무제.canvas",
-    "어렵다/백준, 1978번 소수 찾기.md",
-    "어렵다/백준, 2563번 (색종이 문제).md",
-    "어렵다/백준, 1193번 분수찾기.md",
-    "어렵다/백준, 10798번 (세로 읽기).md",
     "어렵다",
     "무제 1.canvas",
-    "2025-08-04.md",
     "쉽다",
-    "01_Projects/프로그래밍/파이썬/Python.md",
     "01_Projects/프로그래밍/파이썬/파이썬 학습 폴더",
     "01_Projects/프로그래밍/파이썬",
     "01_Projects/프로그래밍",
-    "템플릿",
-    "일간",
-    "03_Notes"
+    "템플릿"
   ]
 }
